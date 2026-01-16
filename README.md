@@ -26,6 +26,7 @@ Build a binary classification model where:
 
 ## Outcome
 Random Forest achieved better performance and was used for probability prediction.
+Download here
 
 ## Author
-Oluwatosin Moses
+Oluwatosin Moses Adebayo
