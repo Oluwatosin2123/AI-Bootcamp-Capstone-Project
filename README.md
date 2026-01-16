@@ -27,8 +27,9 @@ Build a binary classification model where:
 ## Outcome
 Random Forest achieved better performance and was used for probability prediction.
 
-##Projects
+## Projects
 [Download Here][(https://github.com/Oluwatosin2123](https://github.com/Oluwatosin2123/AI-Bootcamp-Capstone-Project/blob/48845171ecceebe0983347a3caf3db4f36d79c46/Train_data.html)
+
 [Download Here](https://github.com/Oluwatosin2123/AI-Bootcamp-Capstone-Project/blob/d77f4da5ddd5925c8fa8da663c396fe636e70d90/Variable_Description.ipynb)
 
 ## Author
